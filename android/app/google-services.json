@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999467178058",
+    "project_id": "music-studycase-app",
+    "storage_bucket": "music-studycase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999467178058:android:3a5485db53ecac46c06eb3",
+        "android_client_info": {
+          "package_name": "com.example.musicApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDV8XPsUD0gPULeCXTussFmzchTahZEVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
